@@ -1,0 +1,217 @@
+body{
+    margin: 0px;
+}
+*{
+    box-sizing: border-box;
+}
+.maindiv{
+    width: 100%;
+    text-align:center;
+}
+.heading1{
+    color: white;
+    background-color: black;
+    line-height: 45px;
+    text-align: center;
+}
+.clearfix{
+    clear: both;
+}
+.myimage{
+    float: left;
+    width: 40%;
+    align-content: center;
+    background-color: white;
+    margin: 30px 0px 0px 85px;
+}
+.higuys{
+    float: left;
+    width: 40%;
+    background-color: white;
+    margin:0px 0px 0px 50px
+}
+.higuys p{
+    text-align: left;
+}
+.aboutdiv{
+    list-style: square;
+    text-align: left;
+}
+#button1{
+    text-align: center;
+    height: 25px;
+    background-color: red;
+}
+#button2{
+    text-align: center;
+    height: 25px;
+    background-color: blue;
+}
+.whatido {
+    margin: 50px 0px 50px 0px;
+}
+.boxshape{
+    margin: 0px 0px 0px 0px;
+    padding: 10px;
+    width: 100%;
+}
+.para1{
+    float: left;
+    width:20%;
+    height: 150px;
+    margin: 0px 20px 50px 80px;
+    background-color: white;
+    box-shadow: 5px 5px 5px 5px #d3d3d3;
+    box-sizing: content-box;
+}
+.para2{
+    float: left;
+    width:20%;
+    height: 150px;
+    margin: 0px 20px 50px 0px;
+    background-color: white;
+    box-shadow: 5px 5px 5px 5px #d3d3d3;
+    box-sizing: content-box;
+}
+.para3{
+    float: left;
+    width:20%;
+    height: 150px;
+    margin: 0px 20px 50px 0px;
+    background-color: white;
+    box-shadow: 5px 5px 5px 5px #d3d3d3;
+    box-sizing: content-box;
+}
+.para4{
+    float:left;
+    width:20%;
+    height: 150px;
+    margin: 0px 20px 50px 0px;
+    background-color: white;
+    box-shadow: 5px 5px 5px 5px #d3d3d3;
+    box-sizing: content-box;
+}
+.education{
+    float: left;
+    width: 50%;
+    text-align: left;
+    margin: 0px 0px 30px 0px;
+}
+.education h3{
+    margin: 20px 0px 0px 95px;
+}
+.experience{
+    float: left;
+    width: 50%;
+    text-align: left;
+    margin: 0px 0px 30px 0px;
+}
+.edu1{
+    width:40%;
+    float: left;
+    text-align: left;
+    margin: 0px 0px 0px 90px;
+    background-color: #d3d3d3;
+    padding: 5px;
+}
+.proj1{
+    width:40.5%;
+    float: left;
+    text-align: left;
+    margin: 0px 0px 0px 40px;
+    background-color: #d3d3d3;
+    padding: 5px;
+}
+.edu2{
+    width:40%;
+    float: left;
+    text-align: left;
+    margin: 25px 0px 0px 90px;
+    background-color: #d3d3d3;
+    padding: 5px;
+}
+.proj2{
+    width:40.5%;
+    float: left;
+    text-align: left;
+    margin: 25px 0px 0px 40px;
+    background-color: #d3d3d3;
+    padding: 5px;
+}
+.workdiv{
+    background-color: #d3d3d3;
+    width: 100%;
+    margin: 0px 0px 0px 0px;
+}
+.work{
+    height: 100px;
+}
+.work h1{
+    line-height: 120px;
+}
+.work1{
+    float: left;
+    width: 26%;
+    margin: 0px 0px 0px 90px;
+}
+.work2{
+    float: left;
+    width: 26%;
+    margin:0px 15px 0px 10px
+}
+.work3{
+    float: left;
+    width: 26%;
+    margin:0px 0px 0px 6px;
+}
+.work4{
+    float: left;
+    width: 26%;
+    margin: 10px 0px 0px 60px;
+}
+.work5{
+    float: left;
+    width: 26%;
+    margin:10px 5px 0px 6px
+}
+.work6{
+    float: left;
+    width: 26%;
+    margin:10px 30px 0px 0px;
+}
+.image1{
+    width: 100%;
+    height: 200px;
+    margin: 50px 0px 0px 0px;
+}
+.image2{
+    width: 100%;
+    height: 200px;
+    margin: 50px 0px 0px 25px;
+}
+.image3{
+    width: 100%;
+    height: 200px;
+    margin: 50px 0px 0px 40px;
+}
+.image4{
+    width: 100%;
+    height: 200px;
+    margin: 10px 0px 50px 30px;
+}
+.image5{
+    width: 100%;
+    height: 200px;
+    margin: 10px 0px 50px 60px;
+}
+.image6{
+    width: 100%;
+    height: 200px;
+    margin: 10px 25px 50px 90px;
+}
+.endingdiv{
+    background-color: black;
+    color: white;
+    line-height: 20px;
+    padding: 50px;
+}
